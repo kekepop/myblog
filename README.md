@@ -1,2 +1,4 @@
-# myblog
-This is my blog
+# 这是我的电子书
+
+在这里记录生活日常点滴
+
